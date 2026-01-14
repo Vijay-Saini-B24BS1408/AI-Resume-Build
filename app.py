@@ -59,7 +59,7 @@ menu = st.sidebar.radio("Go to:",
      "🎨 Generate Portfolio"])
 
 st.sidebar.markdown("---")
-st.sidebar.info("🚀 AI Powered by Gemini")
+st.sidebar.info("Quickly build your professional documents using AI!")
 
 # =======================================================
 # 1️⃣ MY PROFILE SECTION
